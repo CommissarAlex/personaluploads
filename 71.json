@@ -92,7 +92,9 @@
       "volume": "",
       "last_updated": "1775320733",
       "groups": {
-        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4nq39nb4n"
+        "Asmodeus Scans": [
+          "https://imgchest.com/p/9p4nq39nb4n"
+        ]
       }
     }
   }
