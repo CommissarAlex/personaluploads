@@ -20,6 +20,30 @@
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4nq39nb4n"
       }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1775322026",
+      "groups": {
+        "Asmodeus Scans": "http://imgbox.com/g/rPmg12P3P1"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1775322041",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgbox/chapter/rPmg12P3P1"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1775322075",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgbox/chapter/g/rPmg12P3P1"
+      }
     }
   }
 }
