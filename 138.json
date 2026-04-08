@@ -4,5 +4,14 @@
   "artist": "   Kawakami Chimaki",
   "author": "Okano Kyoukai",
   "cover": "https://mangadex.org/covers/f2dd103a-3bbf-4073-8645-689b1b9315f4/2114b560-9fc6-4b9c-95f2-6ea3342ffed6.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/qb4zlnmwg7j"
+      }
+    }
+  }
 }
