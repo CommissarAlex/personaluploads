@@ -4,5 +4,22 @@
   "artist": "Otoki Shirou",
   "author": "Akikazu",
   "cover": "https://mangadex.org/covers/60780942-578a-4e17-af46-484625604897/ce63edec-6fdc-4d84-bf33-e8982fb4895f.jpg",
-  "chapters": {}
+  "chapters": {
+    "23": {
+      "title": "Chapter 23",
+      "volume": "",
+      "last_updated": "",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9ryd328ow7k"
+      }
+    },
+    "24": {
+      "title": "Chapter 24",
+      "volume": "",
+      "last_updated": "",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ne7br6zjny5"
+      }
+    }
+  }
 }
