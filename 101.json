@@ -4,5 +4,30 @@
   "artist": "Yuuki Homura",
   "author": "Hiura Ayase",
   "cover": "https://mangadex.org/covers/e8754140-7237-4698-bfd9-d06901ed6893/2ac0e118-d011-4b19-bda9-ab5169262791.jpg",
-  "chapters": {}
+  "chapters": {
+    "21": {
+      "title": "Chapter 21",
+      "volume": "",
+      "last_updated": "",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ljyqm5bdk72"
+      }
+    },
+    "22": {
+      "title": "Chapter 22",
+      "volume": "",
+      "last_updated": "",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/xny8r2w3p4b"
+      }
+    },
+    "23": {
+      "title": "Chapter 23",
+      "volume": "",
+      "last_updated": "",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/a846q6mwgyx"
+      }
+    }
+  }
 }
