@@ -4,5 +4,14 @@
   "artist": "Yunagi",
   "author": "Sasaki Amane",
   "cover": "https://mangadex.org/covers/125aa945-5320-4517-ae3c-bb16e3b0c742/6bd85348-23f5-45c4-86f8-5923f4986f8d.jpg",
-  "chapters": {}
+  "chapters": {
+     "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/5xy2xnjz34l"
+      }
+    }
+  }
 }
