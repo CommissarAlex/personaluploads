@@ -5,29 +5,45 @@
   "author": "Fujiwara Yu",
   "cover": "https://cdn.mangaupdates.com/image/i515799.jpg",
   "chapters": {
-     "1": {
+    "1": {
       "title": "Chapter 1",
       "volume": "",
-      "last_updated": "",
+      "last_updated": "1775304000",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgbox/chapter/cAfIptfNlK"
-        }
-      },
-       "2": {
+      }
+    },
+    "2": {
       "title": "Chapter 2",
       "volume": "",
-      "last_updated": "",
+      "last_updated": "1775304000",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/xny8rmz354b"
-        }
-      },
-       "3": {
+      }
+    },
+    "3": {
       "title": "Chapter 3",
       "volume": "",
-      "last_updated": "",
+      "last_updated": "1775217600",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/5xy2x2eaz4l"
-        }
-      }     
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "last_updated": "1776428182",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/lqyewk2zkyd"
+      }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "",
+      "last_updated": "1776428321",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/md7odpwd9yp"
+      }
     }
-  }    
+  }
+}
