@@ -8,7 +8,7 @@
     "1": {
       "title": "Chapter 1",
       "volume": "",
-      "last_updated": "",
+      "last_updated": "1775301473",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/9249mlerb7n"
       }
@@ -16,9 +16,17 @@
     "2": {
       "title": "Chapter 2",
       "volume": "",
-      "last_updated": "",
+      "last_updated": "1775474289",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/wl7ll58nx7x"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "last_updated": "1776770297",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/6eyr3jwq6yp"
       }
     }
   }
