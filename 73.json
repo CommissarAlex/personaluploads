@@ -4,5 +4,78 @@
   "artist": "Yamazaki - Kun",
   "author": "Yoichi Sakaki",
   "cover": "https://mangadex.org/covers/e982b583-e703-462b-ade8-75a6584a3f1e/e09999da-00eb-4d23-8264-c4e682008407.jpg",
-  "chapters": {}
+  "chapters": {
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1779106947",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/92495q5rayn"
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "",
+      "last_updated": "1779107164",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/6eyrzozj67p"
+      }
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "",
+      "last_updated": "1779107181",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/qe4gkbkgb7j"
+      }
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "",
+      "last_updated": "1779107190",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/5xy2m6mk87l"
+      }
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "",
+      "last_updated": "1779107227",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/pg733v3e37r"
+      }
+    },
+    "11": {
+      "title": "Chapter 11",
+      "volume": "",
+      "last_updated": "1779107529",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/dl7pwowlkyo"
+      }
+    },
+    "12": {
+      "title": "Chapter 12",
+      "volume": "",
+      "last_updated": "1779107555",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/a846z2zevyx"
+      }
+    },
+    "13": {
+      "title": "Chapter 13",
+      "volume": "",
+      "last_updated": "1779107564",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/agyvaoamzy8"
+      }
+    },
+    "14": {
+      "title": "Chapter 14",
+      "volume": "",
+      "last_updated": "1779107610",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ne7bobo8vy5"
+      }
+    }
+  }
 }
