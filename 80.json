@@ -5,6 +5,22 @@
   "author": "Sky Farm",
   "cover": "https://mangadex.org/covers/03bec986-3b8c-45dd-b659-7a2619a086c8/463823d2-b203-48e7-a6e3-928159402b5c.jpg",
   "chapters": {
+    "9": {
+      "title": "Chapter 9",
+      "volume": "",
+      "last_updated": "1763217420",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgbox/chapter/kYYdqsyOwG"
+      }
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "",
+      "last_updated": "1765377720",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/m9yxlwbxmyq"
+      }
+    },
     "11": {
       "title": "Chapter 11",
       "volume": "",
@@ -59,6 +75,38 @@
       "last_updated": "1776086968",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/xny88d6jpyb"
+      }
+    },
+    "18": {
+      "title": "Chapter 18",
+      "volume": "",
+      "last_updated": "1776089880",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgbox/chapter/Uny9Dodgzy"
+      }
+    },
+    "19": {
+      "title": "Chapter 19",
+      "volume": "",
+      "last_updated": "1777559580",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ljyqelelky2"
+      }
+    },
+    "20": {
+      "title": "Chapter 20",
+      "volume": "",
+      "last_updated": "1778509980",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ej7mrxrdj4d"
+      }
+    },
+    "21": {
+      "title": "Chapter 21",
+      "volume": "",
+      "last_updated": "1779201300",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/xny88d8adyb"
       }
     }
   }
