@@ -4,5 +4,38 @@
   "artist": "Yamauchi Ryouhei",
   "author": "Miyama Suzu",
   "cover": "https://mangadex.org/covers/b314b12a-a8d8-493d-b527-1682b59fa3ef/df7a1273-2ece-4652-a6d5-2d913ced498f.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1771676354",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/dl7pw3zvkyo"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1777465169",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/pg733ejg37r"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "last_updated": "1778933985",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/6eyrzedm67p"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "last_updated": "1779279605",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ne7boaxlky5"
+      }
+    }
+  }
 }
