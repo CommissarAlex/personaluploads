@@ -5,10 +5,42 @@
   "author": "Shuro Tokioka",
   "cover": "https://mangadex.org/covers/b15c9c2a-5d37-4d06-b7ca-33bf18482a40/03d9a08e-e713-4c29-b9b4-97321d3e8713.jpg",
   "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1759972283",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/lqyeo88rm4d"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1759972313",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/qe4gkaa9q7j"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "last_updated": "1762564331",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/a846zeenzyx"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "last_updated": "1765329143",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4nmppobyn"
+      }
+    },
     "5": {
       "title": "Chapter 5",
       "volume": "",
-      "last_updated": "1776077871",
+      "last_updated": "1767869871",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/6eyr36lrkyp"
       }
@@ -16,7 +48,7 @@
     "6": {
       "title": "Chapter 6",
       "volume": "",
-      "last_updated": "1776077894",
+      "last_updated": "1771153094",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/bp45jnqxxy5"
       }
@@ -24,7 +56,7 @@
     "7": {
       "title": "Chapter 7",
       "volume": "",
-      "last_updated": "1776077914",
+      "last_updated": "1773399514",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/5xy2xg2pn4l"
       }
@@ -32,9 +64,17 @@
     "8": {
       "title": "Chapter 8",
       "volume": "",
-      "last_updated": "1776077928",
+      "last_updated": "1776509928",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/ljyqm629o72"
+      }
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "",
+      "last_updated": "1778595240",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/n87w2kk5x7x"
       }
     }
   }
