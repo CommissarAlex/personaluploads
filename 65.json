@@ -56,7 +56,7 @@
     "7": {
       "title": "Chapter 7",
       "volume": "",
-      "last_updated": "1779867045",
+      "last_updated": "1755329445",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/qe4g3dnvoyj"
       }
@@ -64,7 +64,7 @@
     "8": {
       "title": "Chapter 8",
       "volume": "",
-      "last_updated": "1761723062",
+      "last_updated": "1757057462",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/dl7pbj3j8yo"
       }
@@ -83,6 +83,134 @@
       "last_updated": "1758007932",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/bp45rxg8x75"
+      }
+    },
+    "11": {
+      "title": "Chapter 11",
+      "volume": "",
+      "last_updated": "1758872078",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9249ez6d2yn"
+      }
+    },
+    "12": {
+      "title": "Chapter 12",
+      "volume": "",
+      "last_updated": "1759044945",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/wl7l8xq9q4x"
+      }
+    },
+    "13": {
+      "title": "Chapter 13",
+      "volume": "",
+      "last_updated": "1759217759",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/xny8wxav5yb"
+      }
+    },
+    "14": {
+      "title": "Chapter 14",
+      "volume": "",
+      "last_updated": "1761118596",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/na7kgzjmb48"
+      }
+    },
+    "15": {
+      "title": "Chapter 15",
+      "volume": "",
+      "last_updated": "1763537814",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/na7kgzjk348"
+      }
+    },
+    "16": {
+      "title": "Chapter 16",
+      "volume": "",
+      "last_updated": "1763969847",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/xny8wxa92yb"
+      }
+    },
+    "17": {
+      "title": "Chapter 17",
+      "volume": "",
+      "last_updated": "1763969860",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ne7bjwa3m45"
+      }
+    },
+    "18": {
+      "title": "Chapter 18",
+      "volume": "",
+      "last_updated": "1766648278",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ljyqb9wmdy2"
+      }
+    },
+    "19": {
+      "title": "Chapter 19",
+      "volume": "",
+      "last_updated": "1766648335",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/lqyer3xwm4d"
+      }
+    },
+    "20": {
+      "title": "Chapter 20",
+      "volume": "",
+      "last_updated": "1768203547",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/o24alp5ddyl"
+      }
+    },
+    "21": {
+      "title": "Chapter 21",
+      "volume": "",
+      "last_updated": "1768203557",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/6eyrbgezl7p"
+      }
+    },
+    "22": {
+      "title": "Chapter 22",
+      "volume": "",
+      "last_updated": "1768635657",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9249ez658yn"
+      }
+    },
+    "23": {
+      "title": "Chapter 23",
+      "volume": "",
+      "last_updated": "1771400504",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/lqyer3xrz4d"
+      }
+    },
+    "24": {
+      "title": "Chapter 24",
+      "volume": "",
+      "last_updated": "1773646926",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/a846ma8m27x"
+      }
+    },
+    "25": {
+      "title": "Chapter 25",
+      "volume": "",
+      "last_updated": "1776843777",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4naera5yn"
+      }
+    },
+    "26": {
+      "title": "Chapter 26",
+      "volume": "",
+      "last_updated": "1778571787",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/vj4jzdlp978"
       }
     }
   }
