@@ -5,10 +5,42 @@
   "author": "Suzusuke",
   "cover": "https://mangadex.org/covers/2f435527-f526-4de0-b8a9-6dc3e51941ba/ef32a899-8384-4134-9e56-03ef34f58b4b.jpg",
   "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1766147741",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9ryddal5dyk"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1766147772",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/wl7l8rzm64x"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "last_updated": "1768394187",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9ryddalpwyk"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "last_updated": "1769517415",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/6eyrb8rlg7p"
+      }
+    },
     "5": {
       "title": "Chapter 5",
       "volume": "",
-      "last_updated": "1775479937",
+      "last_updated": "1770900737",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/lqyewrgzzyd"
       }
@@ -16,7 +48,7 @@
     "6": {
       "title": "Chapter 6",
       "volume": "",
-      "last_updated": "1775479955",
+      "last_updated": "1772023955",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/5xy2xj8x34l"
       }
@@ -24,7 +56,7 @@
     "7": {
       "title": "Chapter 7",
       "volume": "",
-      "last_updated": "1775995200",
+      "last_updated": "1773144000",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/n87w8qbd37x"
       }
@@ -32,7 +64,7 @@
     "8": {
       "title": "Chapter 8",
       "volume": "",
-      "last_updated": "1775952000",
+      "last_updated": "1773100800",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/na7k25gvk78"
       }
@@ -40,7 +72,7 @@
     "9": {
       "title": "Chapter 9",
       "volume": "",
-      "last_updated": "1775952000",
+      "last_updated": "1774656000",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/pg7326q6z4r"
       }
@@ -80,9 +112,17 @@
     "14": {
       "title": "Chapter 14",
       "volume": "",
-      "last_updated": "1779015526",
+      "last_updated": "1778929126",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/bp45eg9jn45"
+      }
+    },
+    "15": {
+      "title": "Chapter 15",
+      "volume": "",
+      "last_updated": "1780144856",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/6eyrb8r5x7p"
       }
     }
   }
