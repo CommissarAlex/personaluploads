@@ -8,7 +8,7 @@
     "1": {
       "title": "Chapter 1",
       "volume": "",
-      "last_updated": "1779106467",
+      "last_updated": "1760876067",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/92495q5n8yn"
       }
@@ -16,7 +16,7 @@
     "2": {
       "title": "Chapter 2",
       "volume": "",
-      "last_updated": "1779108594",
+      "last_updated": "1760878194",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/n87w2obv37x"
       }
@@ -24,7 +24,7 @@
     "3": {
       "title": "Chapter 3",
       "volume": "",
-      "last_updated": "1779108714",
+      "last_updated": "1761569514",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/wl7ldb8mpyx"
       }
@@ -32,7 +32,7 @@
     "4": {
       "title": "Chapter 4",
       "volume": "",
-      "last_updated": "1779109379",
+      "last_updated": "1763816579",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/o24aobl33yl"
       }
@@ -40,9 +40,41 @@
     "5": {
       "title": "Chapter 5",
       "volume": "",
-      "last_updated": "1779109390",
+      "last_updated": "1765285390",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/o24aoblq3yl"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1769938231",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/dl7pb59kpyo"
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "",
+      "last_updated": "1772875838",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/qb4zbmjdd4j"
+      }
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "",
+      "last_updated": "1774863043",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/agyvbjw2j48"
+      }
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "",
+      "last_updated": "1781170249",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/na7kg5eob48"
       }
     }
   }
