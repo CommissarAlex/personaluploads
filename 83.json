@@ -5,10 +5,58 @@
   "author": "Haseao",
   "cover": "https://mangadex.org/covers/80ccf71a-733c-4a2a-8aa8-a7f3c41873cb/7e34c68b-d471-47a3-9396-493e276bc86c.jpg",
   "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1759663368",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/o24alnajdyl"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1759663376",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/m9yxbdm3p7q"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "last_updated": "1760354580",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4nak38byn"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "last_updated": "1761132185",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ljyqb58ady2"
+      }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "",
+      "last_updated": "1762600991",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ej7m5v3a9yd"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1762773796",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/lqyernqdm4d"
+      }
+    },
     "7": {
       "title": "Chapter 7",
       "volume": "",
-      "last_updated": "1776077565",
+      "last_updated": "1766832765",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/5xy2xg8rn4l"
       }
@@ -16,7 +64,7 @@
     "8": {
       "title": "Chapter 8",
       "volume": "",
-      "last_updated": "1776077599",
+      "last_updated": "1774695199",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/bp45jn5axy5"
       }
@@ -24,9 +72,17 @@
     "9": {
       "title": "Chapter 9",
       "volume": "",
-      "last_updated": "1776077623",
+      "last_updated": "1776079505",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/ne7br3k8ky5"
+      }
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "",
+      "last_updated": "1781177241",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/bp45r62nv75"
       }
     }
   }
