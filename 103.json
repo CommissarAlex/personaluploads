@@ -32,9 +32,33 @@
     "4": {
       "title": "Chapter 4",
       "volume": "",
-      "last_updated": "1776545709",
+      "last_updated": "1776459309",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/na7k2l5pm78"
+      }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "",
+      "last_updated": "1776512039",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/6eyrbzbxk7p"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1778240111",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/m9yxblbjm7q"
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "",
+      "last_updated": "1781609100",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9249e5edvyn"
       }
     }
   }
