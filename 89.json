@@ -4,5 +4,46 @@
   "artist": "Herigaru",
   "author": "Tsukishima Shūichi",
   "cover": "https://mangadex.org/covers/645eafef-4124-4317-98ed-2a37b3be9584/9743355e-67b6-4e0d-89c4-85aa08edf8a6.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1761309505",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4naorqzyn"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1762605520",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/pg73qae2z4r"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "last_updated": "1766320730",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/qb4zb2xq34j"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "last_updated": "1771591152",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9249en652yn"
+      }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "",
+      "last_updated": "1775133557",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/ljyqbpweny2"
+      }
+    }
+  }
 }
