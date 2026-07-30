@@ -72,9 +72,17 @@
     "9": {
       "title": "Chapter 9",
       "volume": "",
-      "last_updated": "1785405533",
+      "last_updated": "1785405120",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/5xy2vl8k97l"
+      }
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "",
+      "last_updated": "1785405120",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/na7klw8z3y8"
       }
     }
   }
