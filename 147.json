@@ -5,30 +5,7 @@
   "author": "Yamata Nagato",
   "cover": "https://mangadex.org/covers/6114f59f-4047-496b-8605-c6264c76d49f/f9a50ba5-b50c-42b6-b524-9037199da109.jpg",
   "chapters": {
-    "4": {
-      "title": "Chapter 4",
-      "volume": "",
-      "last_updated": "1784505900",
-      "groups": {
-        "Asmodeus Scans": "/proxy/api/imgchest/chapter/md7oppzwlyp"
-      }
-    },
-    "5": {
-      "title": "Chapter 5",
-      "volume": "",
-      "last_updated": "1787055957",
-      "groups": {
-        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4ndbp5byn"
-      }
-    },
-    "6": {
-      "title": "Chapter 6",
-      "volume": "",
-      "last_updated": "1789400520",
-      "groups": {
-        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4n9jxqm7n"
-      }
-    },
+    
     "1.1": {
       "title": "Chapter 1.1",
       "volume": "",
@@ -75,6 +52,30 @@
       "last_updated": "1783152504",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/5xy25dnpzyl"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "last_updated": "1784505900",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/md7oppzwlyp"
+      }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "",
+      "last_updated": "1787055957",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4ndbp5byn"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1789400520",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/9p4n9jxqm7n"
       }
     }
   }
