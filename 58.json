@@ -3,7 +3,7 @@
   "description": "\"The long-awaited comic adaptation of the 8th Web Novel Grand Prize winner!\"\nKazuya Sato dominated a VRMMORPG as its strongest player under the name “Fist King,” but then he gets reincarnated into the game world!\nIn a world dominated by heavy firearms, he aims to become the strongest once again using only his fists—the most powerful analog weapon—leveraging the game knowledge only he possesses!\nAn online game addict's fantasy.",
   "artist": "Otoki Shirou",
   "author": "Akikazu",
-  "cover": "https://mangadex.org/covers/60780942-578a-4e17-af46-484625604897/ce63edec-6fdc-4d84-bf33-e8982fb4895f.jpg",
+  "cover": "https://cdn.mangaupdates.com/image/i535034.jpg",
   "chapters": {
     "1": {
       "title": "Chapter 1",
@@ -299,6 +299,14 @@
       "last_updated": "1791360720",
       "groups": {
         "Asmodeus Scans": "/proxy/api/imgchest/chapter/ljyqwexdey2"
+      }
+    },
+    "38": {
+      "title": "Chapter 38",
+      "volume": "",
+      "last_updated": "1793963820",
+      "groups": {
+        "Asmodeus Scans": "/proxy/api/imgchest/chapter/md7o2n2da4p"
       }
     }
   }
